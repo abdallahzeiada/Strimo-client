@@ -7,11 +7,6 @@
   "env": {
     "NODE_VERSION": "18.x"
   },
-  "functions": {
-    "app/api/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",
